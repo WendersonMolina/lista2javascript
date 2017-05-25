@@ -6,6 +6,11 @@
    <body>
        <p> Escolha uma das opções</p>
        <p> 1. Média entre os números digitados </p>
-       <p> 2. Diferença do maior pelo menor </p>.
+       <p> 2. Diferença do maior pelo menor </p>
+       <p> 3. Produto entre os números digitados </p>
+       <p> Opção <input type="number" id="opção"> </p>
+       <p> Número 1 <input type="number" id="nro1"> </p>
+       <p> Número 2 <input type="number" id="nro2"> </p>
+       <p> <button onclick="opera()"> Calcula </button> </p>
    </body>
 </Html>
